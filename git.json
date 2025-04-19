@@ -35,7 +35,7 @@
         "p_sink_file" : "AdventureWorks_Territories.csv"
     },
     {
-        "p_rel_url" : "Venkatcdevelopment/SampleApplication/blob/main/AdventureWorks_Customers.csv",
+        "p_rel_url" : "Venkatcdevelopment/SampleApplication/refs/heads/main/AdventureWorks_Customers.csv",
         "p_sink_folder" : "AdventureWorks_Customers",
         "p_sink_file" : "AdventureWorks_Customers.csv"
     }    
